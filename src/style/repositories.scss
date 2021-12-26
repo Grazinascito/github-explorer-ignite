@@ -1,0 +1,25 @@
+section {
+  margin: 20px;
+
+  h1 {
+    padding: 20px 0 0 20px;
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      p {
+        font-size: 14px;
+        color: #9bf534;
+      }
+
+      a {
+        display: inline-block;
+
+        text-decoration: none;
+        color: #ff1e8e;
+      }
+    }
+  }
+}
